@@ -1,4 +1,4 @@
-# Python Basics 
+# 🐍 01- Python Basics 
 
 This folder contains my Python basic practice programs and a small project.
 
